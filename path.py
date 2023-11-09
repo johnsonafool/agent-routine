@@ -8,6 +8,9 @@ import os
 from typing import NoReturn
 
 
+##############################################
+# utils
+##############################################
 def digit_to_hour_min(number: int, new_start_time: int) -> int:
     hours = number // 100
     minutes = number % 100
@@ -55,6 +58,14 @@ def json_file_to_array(json_file: str) -> list:
     return data
 
 
+##############################################
+# utils end
+##############################################
+
+
+##############################################
+# for generating newItineraries.json
+##############################################
 def insert_agent_activity(arr: list) -> NoReturn:
     new_arr = []
     new_start_time = arr[0]["Start time"]
@@ -152,6 +163,9 @@ def insert_agent_activity(arr: list) -> NoReturn:
         json.dump(new_arr, f, indent=2)
 
 
+##############################################
+# for generating newPath.json
+##############################################
 def new_shortest_path_algor(graph, mock_data):
     res = {"path": [], "timestamp": []}
 
