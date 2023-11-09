@@ -1,0 +1,409 @@
+[
+  {
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Place": "house",
+    "Start time": 530,
+    "End time": 600,
+    "Transportation": "Walk",
+    "log": -71.09752,
+    "lat": 42.35869
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 13,
+    "Place": "None",
+    "Start time": 600,
+    "End time": 613,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Place": "terrace",
+    "Start time": 613,
+    "End time": 713,
+    "Transportation": "Walk",
+    "log": -71.10092,
+    "lat": 42.36826
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 8,
+    "Place": "None",
+    "Start time": 713,
+    "End time": 721,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Place": "house",
+    "Start time": 721,
+    "End time": 741,
+    "Transportation": "Walk",
+    "log": -71.10718,
+    "lat": 42.36391
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 3,
+    "Place": "None",
+    "Start time": 741,
+    "End time": 744,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Preparing a nutritious breakfast, cooking a meal with lots of fruits and vegetables",
+    "Place": "house",
+    "Start time": 744,
+    "End time": 754,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Place": "house",
+    "Start time": 754,
+    "End time": 809,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 4,
+    "Place": "None",
+    "Start time": 809,
+    "End time": 813,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Place": "commercial",
+    "Start time": 813,
+    "End time": 858,
+    "Transportation": "Car",
+    "log": -71.10573,
+    "lat": 42.36545
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 13,
+    "Place": "None",
+    "Start time": 858,
+    "End time": 911,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Place": "commercial",
+    "Start time": 911,
+    "End time": 1041,
+    "Transportation": "Walk",
+    "log": -71.11603,
+    "lat": 42.3722
+  },
+  {
+    "Activity": "Driving",
+    "DurationMinute": 2,
+    "Place": "None",
+    "Start time": 1041,
+    "End time": 1043,
+    "Transportation": "Car",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Place": "commercial",
+    "Start time": 1043,
+    "End time": 1058,
+    "Transportation": "Walk",
+    "log": -71.10657,
+    "lat": 42.35466
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 12,
+    "Place": "None",
+    "Start time": 1058,
+    "End time": 1110,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Place": "commercial",
+    "Start time": 1110,
+    "End time": 1255,
+    "Transportation": "Walk",
+    "log": -71.10128,
+    "lat": 42.36342
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 4,
+    "Place": "None",
+    "Start time": 1255,
+    "End time": 1259,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Place": "commercial",
+    "Start time": 1259,
+    "End time": 1329,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Driving",
+    "DurationMinute": 2,
+    "Place": "None",
+    "Start time": 1329,
+    "End time": 1331,
+    "Transportation": "Car",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Place": "commercial",
+    "Start time": 1331,
+    "End time": 1531,
+    "Transportation": "Walk",
+    "log": -71.07819,
+    "lat": 42.36639
+  },
+  {
+    "Activity": "Driving",
+    "DurationMinute": 3,
+    "Place": "None",
+    "Start time": 1531,
+    "End time": 1534,
+    "Transportation": "Car",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Place": "commercial",
+    "Start time": 1534,
+    "End time": 1509,
+    "Transportation": "Walk",
+    "log": -71.11001,
+    "lat": 42.36326
+  },
+  {
+    "Activity": "Driving",
+    "DurationMinute": 1,
+    "Place": "None",
+    "Start time": 1509,
+    "End time": 1510,
+    "Transportation": "Car",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Place": "commercial",
+    "Start time": 1510,
+    "End time": 1735,
+    "Transportation": "Walk",
+    "log": -71.09937,
+    "lat": 42.37372
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 15,
+    "Place": "None",
+    "Start time": 1735,
+    "End time": 1710,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Place": "house",
+    "Start time": 1710,
+    "End time": 1835,
+    "Transportation": "Car",
+    "log": -71.11452,
+    "lat": 42.37262
+  },
+  {
+    "Activity": "Driving",
+    "DurationMinute": 1,
+    "Place": "None",
+    "Start time": 1835,
+    "End time": 1836,
+    "Transportation": "Car",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "After work relax time, cozied up with a cup of tea and a good book",
+    "Place": "house",
+    "Start time": 1836,
+    "End time": 1921,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Place": "house",
+    "Start time": 1921,
+    "End time": 1911,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 12,
+    "Place": "None",
+    "Start time": 1911,
+    "End time": 1923,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Eating dinner, a mindful meal followed by clean up",
+    "Place": "house",
+    "Start time": 1923,
+    "End time": 2033,
+    "Transportation": "Walk",
+    "log": -71.09272,
+    "lat": 42.36086
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 4,
+    "Place": "None",
+    "Start time": 2033,
+    "End time": 2037,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Place": "house",
+    "Start time": 2037,
+    "End time": 2137,
+    "Transportation": "Walk",
+    "log": -71.09271,
+    "lat": 42.36403
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 10,
+    "Place": "None",
+    "Start time": 2137,
+    "End time": 2107,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Online course study, continuous learning in the evening",
+    "Place": "house",
+    "Start time": 2107,
+    "End time": 2207,
+    "Transportation": "Wifi",
+    "log": -71.10317,
+    "lat": 42.36602
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 13,
+    "Place": "None",
+    "Start time": 2207,
+    "End time": 2220,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Place": "house",
+    "Start time": 2220,
+    "End time": 2250,
+    "Transportation": "Walk",
+    "log": -71.09831,
+    "lat": 42.35692
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 9,
+    "Place": "None",
+    "Start time": 2250,
+    "End time": 2259,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Place": "house",
+    "Start time": 2259,
+    "End time": 2329,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 9,
+    "Place": "None",
+    "Start time": 2329,
+    "End time": 2338,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Place": "house",
+    "Start time": 2338,
+    "End time": 2438,
+    "Transportation": "Walk",
+    "log": -71.10092,
+    "lat": 42.36826
+  },
+  {
+    "Activity": "Walking",
+    "DurationMinute": 9,
+    "Place": "None",
+    "Start time": 2438,
+    "End time": 2447,
+    "Transportation": "Walk",
+    "log": "None",
+    "lat": "None"
+  },
+  {
+    "Activity": "Sleep, a restful end to a productive day",
+    "Place": "house",
+    "Start time": 2447,
+    "End time": 530,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  }
+]

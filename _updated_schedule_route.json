@@ -1,0 +1,2379 @@
+[
+  {
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Place": "house",
+    "Start time": 530,
+    "End time": 600,
+    "Transportation": "Walk",
+    "log": -71.09752,
+    "lat": 42.35869
+  },
+  {
+    "End time": 606.6666666666666,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 613.3333333333334,
+    "log": -71.1016971,
+    "lat": 42.3598989,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 620.0,
+    "log": -71.102478,
+    "lat": 42.36035,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 626.6666666666666,
+    "log": -71.1007587,
+    "lat": 42.3618769,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 633.3333333333334,
+    "log": -71.1002034,
+    "lat": 42.3623916,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 640.0,
+    "log": -71.0996101,
+    "lat": 42.3629644,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 646.6666666666666,
+    "log": -71.1011859,
+    "lat": 42.3639108,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 653.3333333333334,
+    "log": -71.1003641,
+    "lat": 42.3646919,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 660.0,
+    "log": -71.1012764,
+    "lat": 42.3652327,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 666.6666666666666,
+    "log": -71.102318,
+    "lat": 42.365852,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 673.3333333333334,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 680.0,
+    "log": -71.1024004,
+    "lat": 42.3673677,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 686.6666666666666,
+    "log": -71.1017379,
+    "lat": 42.3682951,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 693.3333333333334,
+    "log": -71.101223,
+    "lat": 42.368115,
+    "Activity": "Wake up and freshen up, starting the day with a refreshing shower and grooming",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Place": "terrace",
+    "Start time": 600,
+    "End time": 700,
+    "Transportation": "Walk",
+    "log": -71.10092,
+    "lat": 42.36826
+  },
+  {
+    "End time": 701.1111111111111,
+    "log": -71.101223,
+    "lat": 42.368115,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 702.2222222222222,
+    "log": -71.100538,
+    "lat": 42.36913,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 703.3333333333334,
+    "log": -71.1010043,
+    "lat": 42.3693165,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 704.4444444444445,
+    "log": -71.1017379,
+    "lat": 42.3682951,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 705.5555555555555,
+    "log": -71.1024004,
+    "lat": 42.3673677,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 706.6666666666666,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 707.7777777777778,
+    "log": -71.1040004,
+    "lat": 42.3655877,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 708.8888888888889,
+    "log": -71.1050312,
+    "lat": 42.3652726,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 710.0,
+    "log": -71.1062118,
+    "lat": 42.3651481,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 711.1111111111111,
+    "log": -71.1068893,
+    "lat": 42.3650859,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 712.2222222222222,
+    "log": -71.1072174,
+    "lat": 42.3650598,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 713.3333333333334,
+    "log": -71.1081295,
+    "lat": 42.3649819,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 714.4444444444445,
+    "log": -71.1090072,
+    "lat": 42.364907,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 715.5555555555555,
+    "log": -71.108841,
+    "lat": 42.3638508,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 716.6666666666666,
+    "log": -71.1082947,
+    "lat": 42.3640258,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 717.7777777777778,
+    "log": -71.1081205,
+    "lat": 42.3640857,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 718.8888888888889,
+    "log": -71.107456,
+    "lat": 42.364305,
+    "Activity": "Morning yoga and meditation for inner peace and weight management",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Place": "house",
+    "Start time": 700,
+    "End time": 720,
+    "Transportation": "Walk",
+    "log": -71.10718,
+    "lat": 42.36391
+  },
+  {
+    "End time": 721.4285714285714,
+    "log": -71.107456,
+    "lat": 42.364305,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 722.8571428571429,
+    "log": -71.1061998,
+    "lat": 42.3635401,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 724.2857142857143,
+    "log": -71.104792,
+    "lat": 42.362695,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 725.7142857142857,
+    "log": -71.1049909,
+    "lat": 42.3625119,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 727.1428571428571,
+    "log": -71.105308,
+    "lat": 42.362227,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 728.5714285714286,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Morning Prayers at home, a daily ritual for spiritual growth",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Preparing a nutritious breakfast, cooking a meal with lots of fruits and vegetables",
+    "Place": "house",
+    "Start time": 720,
+    "End time": 730,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Place": "house",
+    "Start time": 730,
+    "End time": 745,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "End time": 751.0714285714286,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 757.1428571428571,
+    "log": -71.1040784,
+    "lat": 42.3611147,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 763.2142857142857,
+    "log": -71.1039695,
+    "lat": 42.3612422,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 769.2857142857143,
+    "log": -71.1035659,
+    "lat": 42.3616507,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 775.3571428571429,
+    "log": -71.1034355,
+    "lat": 42.3617854,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 781.4285714285714,
+    "log": -71.10294,
+    "lat": 42.362326,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 787.5,
+    "log": -71.102432,
+    "lat": 42.362863,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 793.5714285714286,
+    "log": -71.101932,
+    "lat": 42.363418,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 799.6428571428571,
+    "log": -71.10318,
+    "lat": 42.364165,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 805.7142857142857,
+    "log": -71.1045754,
+    "lat": 42.3650092,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 811.7857142857142,
+    "log": -71.1048778,
+    "lat": 42.3651812,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 817.8571428571429,
+    "log": -71.1050312,
+    "lat": 42.3652726,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 823.9285714285714,
+    "log": -71.1062118,
+    "lat": 42.3651481,
+    "Activity": "Eating breakfast while reading the online news, staying updated",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Place": "commercial",
+    "Start time": 745,
+    "End time": 830,
+    "Transportation": "Car",
+    "log": -71.10573,
+    "lat": 42.36545
+  },
+  {
+    "End time": 841.3333333333334,
+    "log": -71.1062118,
+    "lat": 42.3651481,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 852.6666666666666,
+    "log": -71.1057875,
+    "lat": 42.3648847,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 864.0,
+    "log": -71.1048778,
+    "lat": 42.3651812,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 875.3333333333334,
+    "log": -71.1050312,
+    "lat": 42.3652726,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 886.6666666666666,
+    "log": -71.1060337,
+    "lat": 42.3658847,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 898.0,
+    "log": -71.1073192,
+    "lat": 42.3666456,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 909.3333333333334,
+    "log": -71.1094301,
+    "lat": 42.3677916,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 920.6666666666666,
+    "log": -71.110746,
+    "lat": 42.368306,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 932.0,
+    "log": -71.113448,
+    "lat": 42.369285,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 943.3333333333334,
+    "log": -71.11334,
+    "lat": 42.3700947,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 954.6666666666666,
+    "log": -71.1134452,
+    "lat": 42.3704621,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 966.0,
+    "log": -71.1138915,
+    "lat": 42.3708201,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 977.3333333333334,
+    "log": -71.1141634,
+    "lat": 42.3710397,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 988.6666666666667,
+    "log": -71.1155943,
+    "lat": 42.3722058,
+    "Activity": "Commute to work, taking advantage of the quiet drive through the small town",
+    "Transportation": "Car"
+  },
+  {
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Place": "commercial",
+    "Start time": 830,
+    "End time": 1000,
+    "Transportation": "Walk",
+    "log": -71.11603,
+    "lat": 42.3722
+  },
+  {
+    "End time": 1000.6521739130435,
+    "log": -71.1155943,
+    "lat": 42.3722058,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1001.304347826087,
+    "log": -71.1156842,
+    "lat": 42.3716008,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1001.9565217391304,
+    "log": -71.1159473,
+    "lat": 42.3713759,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1002.6086956521739,
+    "log": -71.1161228,
+    "lat": 42.3710824,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1003.2608695652174,
+    "log": -71.1167646,
+    "lat": 42.3700104,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1003.9130434782609,
+    "log": -71.1168353,
+    "lat": 42.3698991,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1004.5652173913044,
+    "log": -71.117171,
+    "lat": 42.3693089,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1005.2173913043479,
+    "log": -71.117266,
+    "lat": 42.3691441,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1005.8695652173913,
+    "log": -71.1163563,
+    "lat": 42.3677829,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1006.5217391304348,
+    "log": -71.1159405,
+    "lat": 42.3658057,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1007.1739130434783,
+    "log": -71.1159938,
+    "lat": 42.3652204,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1007.8260869565217,
+    "log": -71.1160673,
+    "lat": 42.3643105,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1008.4782608695652,
+    "log": -71.1159664,
+    "lat": 42.3614837,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1009.1304347826087,
+    "log": -71.1155906,
+    "lat": 42.3588562,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1009.7826086956521,
+    "log": -71.1142274,
+    "lat": 42.3562897,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1010.4347826086956,
+    "log": -71.1135582,
+    "lat": 42.3568683,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1011.0869565217391,
+    "log": -71.1120124,
+    "lat": 42.3559879,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1011.7391304347826,
+    "log": -71.1113106,
+    "lat": 42.3555882,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1012.3913043478261,
+    "log": -71.1102796,
+    "lat": 42.3551256,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1013.0434782608696,
+    "log": -71.1095705,
+    "lat": 42.3559021,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1013.695652173913,
+    "log": -71.10822,
+    "lat": 42.355221,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1014.3478260869565,
+    "log": -71.1068754,
+    "lat": 42.3549532,
+    "Activity": "Working at the office, an exciting day of planning and managing engineering projects",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Place": "commercial",
+    "Start time": 1000,
+    "End time": 1015,
+    "Transportation": "Walk",
+    "log": -71.10657,
+    "lat": 42.35466
+  },
+  {
+    "End time": 1027.3333333333333,
+    "log": -71.1068754,
+    "lat": 42.3549532,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1039.6666666666667,
+    "log": -71.1063221,
+    "lat": 42.3552168,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1052.0,
+    "log": -71.1055132,
+    "lat": 42.3559462,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1064.3333333333333,
+    "log": -71.1048669,
+    "lat": 42.3565441,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1076.6666666666667,
+    "log": -71.1043737,
+    "lat": 42.3570072,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1089.0,
+    "log": -71.1037017,
+    "lat": 42.3574298,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1101.3333333333333,
+    "log": -71.1033979,
+    "lat": 42.3574442,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1113.6666666666667,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1126.0,
+    "log": -71.1016971,
+    "lat": 42.3598989,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1138.3333333333333,
+    "log": -71.0992599,
+    "lat": 42.3609839,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1150.6666666666667,
+    "log": -71.1007587,
+    "lat": 42.3618769,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1163.0,
+    "log": -71.1002034,
+    "lat": 42.3623916,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1175.3333333333333,
+    "log": -71.100651,
+    "lat": 42.362664,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1187.6666666666667,
+    "log": -71.101932,
+    "lat": 42.363418,
+    "Activity": "Short break, with a walk around the office building for some light exercise",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Place": "commercial",
+    "Start time": 1015,
+    "End time": 1200,
+    "Transportation": "Walk",
+    "log": -71.10128,
+    "lat": 42.36342
+  },
+  {
+    "End time": 1203.3333333333333,
+    "log": -71.101932,
+    "lat": 42.363418,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1206.6666666666667,
+    "log": -71.10318,
+    "lat": 42.364165,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1210.0,
+    "log": -71.103738,
+    "lat": 42.363651,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1213.3333333333333,
+    "log": -71.1042966,
+    "lat": 42.3631456,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1216.6666666666667,
+    "log": -71.104792,
+    "lat": 42.362695,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1220.0,
+    "log": -71.1049909,
+    "lat": 42.3625119,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1223.3333333333333,
+    "log": -71.105308,
+    "lat": 42.362227,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1226.6666666666667,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Working at the office, continuing the morning's tasks",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Place": "commercial",
+    "Start time": 1200,
+    "End time": 1230,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "End time": 1240.0,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1250.0,
+    "log": -71.1040784,
+    "lat": 42.3611147,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1260.0,
+    "log": -71.1039695,
+    "lat": 42.3612422,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1270.0,
+    "log": -71.1033722,
+    "lat": 42.3608849,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1280.0,
+    "log": -71.102478,
+    "lat": 42.36035,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1290.0,
+    "log": -71.1016971,
+    "lat": 42.3598989,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1300.0,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1310.0,
+    "log": -71.0960005,
+    "lat": 42.3608275,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1320.0,
+    "log": -71.0948847,
+    "lat": 42.3601506,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1330.0,
+    "log": -71.0899422,
+    "lat": 42.3627194,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1340.0,
+    "log": -71.0893731,
+    "lat": 42.3647717,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1350.0,
+    "log": -71.0879908,
+    "lat": 42.3663373,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1360.0,
+    "log": -71.0879238,
+    "lat": 42.3663353,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1370.0,
+    "log": -71.0824513,
+    "lat": 42.3656342,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1380.0,
+    "log": -71.0798771,
+    "lat": 42.3653096,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1390.0,
+    "log": -71.0798549,
+    "lat": 42.3654077,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1400.0,
+    "log": -71.079712,
+    "lat": 42.366093,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1410.0,
+    "log": -71.07804,
+    "lat": 42.3658781,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1420.0,
+    "log": -71.0778774,
+    "lat": 42.3665632,
+    "Activity": "Lunch at the office, a home-packed lunch full of lean proteins and greens",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Place": "commercial",
+    "Start time": 1230,
+    "End time": 1430,
+    "Transportation": "Walk",
+    "log": -71.07819,
+    "lat": 42.36639
+  },
+  {
+    "End time": 1430.5172413793102,
+    "log": -71.0778774,
+    "lat": 42.3665632,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1431.0344827586207,
+    "log": -71.0795412,
+    "lat": 42.3667681,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1431.551724137931,
+    "log": -71.079712,
+    "lat": 42.366093,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1432.0689655172414,
+    "log": -71.0798549,
+    "lat": 42.3654077,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1432.5862068965516,
+    "log": -71.0823709,
+    "lat": 42.3657342,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1433.103448275862,
+    "log": -71.0844274,
+    "lat": 42.3659976,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1433.6206896551723,
+    "log": -71.0860568,
+    "lat": 42.3662093,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1434.1379310344828,
+    "log": -71.0880988,
+    "lat": 42.3664178,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1434.655172413793,
+    "log": -71.0894554,
+    "lat": 42.3648051,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1435.1724137931035,
+    "log": -71.0899422,
+    "lat": 42.3627194,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1435.6896551724137,
+    "log": -71.0948847,
+    "lat": 42.3601506,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1436.2068965517242,
+    "log": -71.0960005,
+    "lat": 42.3608275,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1436.7241379310344,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1437.2413793103449,
+    "log": -71.1033979,
+    "lat": 42.3574442,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1437.7586206896551,
+    "log": -71.1036815,
+    "lat": 42.3575919,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1438.2758620689656,
+    "log": -71.104864,
+    "lat": 42.358379,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1438.7931034482758,
+    "log": -71.105419,
+    "lat": 42.35787,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1439.3103448275863,
+    "log": -71.1067005,
+    "lat": 42.3586352,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1439.8275862068965,
+    "log": -71.1082265,
+    "lat": 42.3595507,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1440.344827586207,
+    "log": -71.1096505,
+    "lat": 42.3604049,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1440.8620689655172,
+    "log": -71.1092627,
+    "lat": 42.3607572,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1441.3793103448277,
+    "log": -71.1109105,
+    "lat": 42.3617379,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1441.896551724138,
+    "log": -71.1105291,
+    "lat": 42.3620553,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1442.4137931034484,
+    "log": -71.1103161,
+    "lat": 42.362231,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1442.9310344827586,
+    "log": -71.1100895,
+    "lat": 42.3624299,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1443.448275862069,
+    "log": -71.109745,
+    "lat": 42.3627203,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1443.9655172413793,
+    "log": -71.110533,
+    "lat": 42.363275,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1444.4827586206898,
+    "log": -71.109704,
+    "lat": 42.363562,
+    "Activity": "Working at the office, the afternoon hustle of client interactions and team engagements",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Place": "commercial",
+    "Start time": 1430,
+    "End time": 1445,
+    "Transportation": "Walk",
+    "log": -71.11001,
+    "lat": 42.36326
+  },
+  {
+    "End time": 1453.409090909091,
+    "log": -71.109704,
+    "lat": 42.363562,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1461.8181818181818,
+    "log": -71.108841,
+    "lat": 42.3638508,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1470.2272727272727,
+    "log": -71.1082947,
+    "lat": 42.3640258,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1478.6363636363637,
+    "log": -71.1081205,
+    "lat": 42.3640857,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1487.0454545454545,
+    "log": -71.1071948,
+    "lat": 42.3648758,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1495.4545454545455,
+    "log": -71.1066989,
+    "lat": 42.3645803,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1503.8636363636363,
+    "log": -71.1057875,
+    "lat": 42.3648847,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1512.2727272727273,
+    "log": -71.1048778,
+    "lat": 42.3651812,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1520.6818181818182,
+    "log": -71.104222,
+    "lat": 42.3653576,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1529.090909090909,
+    "log": -71.1040004,
+    "lat": 42.3655877,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1537.5,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1545.909090909091,
+    "log": -71.1024004,
+    "lat": 42.3673677,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1554.3181818181818,
+    "log": -71.1017379,
+    "lat": 42.3682951,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1562.7272727272727,
+    "log": -71.1010043,
+    "lat": 42.3693165,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1571.1363636363635,
+    "log": -71.100067,
+    "lat": 42.37067,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1579.5454545454545,
+    "log": -71.0998978,
+    "lat": 42.3708997,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1587.9545454545455,
+    "log": -71.0989799,
+    "lat": 42.3722081,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1596.3636363636363,
+    "log": -71.0987155,
+    "lat": 42.3726027,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1604.7727272727273,
+    "log": -71.0981411,
+    "lat": 42.3733872,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1613.1818181818182,
+    "log": -71.0991511,
+    "lat": 42.3735165,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1621.590909090909,
+    "log": -71.0996586,
+    "lat": 42.3735842,
+    "Activity": "Afternoon break, stepping out for a walk and some fresh air",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Place": "commercial",
+    "Start time": 1445,
+    "End time": 1630,
+    "Transportation": "Walk",
+    "log": -71.09937,
+    "lat": 42.37372
+  },
+  {
+    "End time": 1634.047619047619,
+    "log": -71.0996586,
+    "lat": 42.3735842,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1638.095238095238,
+    "log": -71.1005309,
+    "lat": 42.3736965,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1642.142857142857,
+    "log": -71.1005763,
+    "lat": 42.3735287,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1646.1904761904761,
+    "log": -71.1005231,
+    "lat": 42.3734833,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1650.2380952380952,
+    "log": -71.101992,
+    "lat": 42.371427,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1654.2857142857142,
+    "log": -71.1029288,
+    "lat": 42.3700751,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1658.3333333333333,
+    "log": -71.1031782,
+    "lat": 42.3696939,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1662.3809523809523,
+    "log": -71.10338,
+    "lat": 42.3693894,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1666.4285714285713,
+    "log": -71.1036581,
+    "lat": 42.368974,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1670.4761904761904,
+    "log": -71.1042351,
+    "lat": 42.3691792,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1674.5238095238096,
+    "log": -71.1050389,
+    "lat": 42.3694614,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1678.5714285714287,
+    "log": -71.105859,
+    "lat": 42.36975,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1682.6190476190477,
+    "log": -71.1068905,
+    "lat": 42.3700518,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1686.6666666666667,
+    "log": -71.109606,
+    "lat": 42.3708124,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1690.7142857142858,
+    "log": -71.110807,
+    "lat": 42.3711417,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1694.7619047619048,
+    "log": -71.1120092,
+    "lat": 42.371455,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1698.8095238095239,
+    "log": -71.1130633,
+    "lat": 42.3717479,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1702.857142857143,
+    "log": -71.1134251,
+    "lat": 42.3718446,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1706.904761904762,
+    "log": -71.1142345,
+    "lat": 42.372052,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1710.952380952381,
+    "log": -71.115147,
+    "lat": 42.3723093,
+    "Activity": "Working at the office, wrapping up the project and preparing for the next day",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Place": "house",
+    "Start time": 1630,
+    "End time": 1715,
+    "Transportation": "Car",
+    "log": -71.11452,
+    "lat": 42.37262
+  },
+  {
+    "End time": 1718.5416666666667,
+    "log": -71.115147,
+    "lat": 42.3723093,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1722.0833333333333,
+    "log": -71.1142345,
+    "lat": 42.372052,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1725.625,
+    "log": -71.1134251,
+    "lat": 42.3718446,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1729.1666666666667,
+    "log": -71.1130633,
+    "lat": 42.3717479,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1732.7083333333333,
+    "log": -71.1120092,
+    "lat": 42.371455,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1736.25,
+    "log": -71.110807,
+    "lat": 42.3711417,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1739.7916666666667,
+    "log": -71.111859,
+    "lat": 42.369574,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1743.3333333333333,
+    "log": -71.110734,
+    "lat": 42.369176,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1746.875,
+    "log": -71.110264,
+    "lat": 42.369003,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1750.4166666666667,
+    "log": -71.1087741,
+    "lat": 42.3683845,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1753.9583333333333,
+    "log": -71.1094301,
+    "lat": 42.3677916,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1757.5,
+    "log": -71.109984,
+    "lat": 42.367274,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1761.0416666666667,
+    "log": -71.108316,
+    "lat": 42.366385,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1764.5833333333333,
+    "log": -71.1066167,
+    "lat": 42.3653911,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1768.125,
+    "log": -71.1062118,
+    "lat": 42.3651481,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1771.6666666666667,
+    "log": -71.1057875,
+    "lat": 42.3648847,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1775.2083333333333,
+    "log": -71.10513,
+    "lat": 42.364512,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1778.75,
+    "log": -71.103738,
+    "lat": 42.363651,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1782.2916666666667,
+    "log": -71.1042966,
+    "lat": 42.3631456,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1785.8333333333333,
+    "log": -71.104792,
+    "lat": 42.362695,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1789.375,
+    "log": -71.1049909,
+    "lat": 42.3625119,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1792.9166666666667,
+    "log": -71.105308,
+    "lat": 42.362227,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "End time": 1796.4583333333333,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Drive Back Home, a relaxing drive listening to audiobooks",
+    "Transportation": "Car"
+  },
+  {
+    "Activity": "After work relax time, cozied up with a cup of tea and a good book",
+    "Place": "house",
+    "Start time": 1715,
+    "End time": 1800,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Place": "house",
+    "Start time": 1800,
+    "End time": 1830,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "End time": 1836.3636363636363,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1842.7272727272727,
+    "log": -71.1040784,
+    "lat": 42.3611147,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1849.090909090909,
+    "log": -71.1039695,
+    "lat": 42.3612422,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1855.4545454545455,
+    "log": -71.1033722,
+    "lat": 42.3608849,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1861.8181818181818,
+    "log": -71.102478,
+    "lat": 42.36035,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1868.1818181818182,
+    "log": -71.1016971,
+    "lat": 42.3598989,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1874.5454545454545,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1880.909090909091,
+    "log": -71.0960005,
+    "lat": 42.3608275,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1887.2727272727273,
+    "log": -71.0955375,
+    "lat": 42.3610374,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1893.6363636363637,
+    "log": -71.0938619,
+    "lat": 42.3619059,
+    "Activity": "Preparing a balanced dinner, cooking a healthy meal using fresh ingredients",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Eating dinner, a mindful meal followed by clean up",
+    "Place": "house",
+    "Start time": 1830,
+    "End time": 1900,
+    "Transportation": "Walk",
+    "log": -71.09272,
+    "lat": 42.36086
+  },
+  {
+    "End time": 1925.0,
+    "log": -71.0938619,
+    "lat": 42.3619059,
+    "Activity": "Eating dinner, a mindful meal followed by clean up",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1950.0,
+    "log": -71.0936322,
+    "lat": 42.3629768,
+    "Activity": "Eating dinner, a mindful meal followed by clean up",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1975.0,
+    "log": -71.0931738,
+    "lat": 42.3638879,
+    "Activity": "Eating dinner, a mindful meal followed by clean up",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Place": "house",
+    "Start time": 1900,
+    "End time": 2000,
+    "Transportation": "Walk",
+    "log": -71.09271,
+    "lat": 42.36403
+  },
+  {
+    "End time": 2007.6923076923076,
+    "log": -71.0931738,
+    "lat": 42.3638879,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2015.3846153846155,
+    "log": -71.0936322,
+    "lat": 42.3629768,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2023.076923076923,
+    "log": -71.0952709,
+    "lat": 42.363098,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2030.7692307692307,
+    "log": -71.0967089,
+    "lat": 42.3632016,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2038.4615384615386,
+    "log": -71.0975111,
+    "lat": 42.3632629,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2046.1538461538462,
+    "log": -71.0983608,
+    "lat": 42.3633322,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2053.846153846154,
+    "log": -71.0994207,
+    "lat": 42.3634171,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2061.5384615384614,
+    "log": -71.0994827,
+    "lat": 42.3641635,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2069.230769230769,
+    "log": -71.1003641,
+    "lat": 42.3646919,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2076.923076923077,
+    "log": -71.1012764,
+    "lat": 42.3652327,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2084.6153846153848,
+    "log": -71.102318,
+    "lat": 42.365852,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2092.3076923076924,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Evening yoga, a gentle workout supporting mental and physical health",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Online course study, continuous learning in the evening",
+    "Place": "house",
+    "Start time": 2000,
+    "End time": 2100,
+    "Transportation": "Wifi",
+    "log": -71.10317,
+    "lat": 42.36602
+  },
+  {
+    "End time": 2101.764705882353,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2103.529411764706,
+    "log": -71.102318,
+    "lat": 42.365852,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2105.294117647059,
+    "log": -71.1012764,
+    "lat": 42.3652327,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2107.0588235294117,
+    "log": -71.1003641,
+    "lat": 42.3646919,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2108.823529411765,
+    "log": -71.0994827,
+    "lat": 42.3641635,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2110.5882352941176,
+    "log": -71.0994207,
+    "lat": 42.3634171,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2112.3529411764707,
+    "log": -71.0996101,
+    "lat": 42.3629644,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2114.1176470588234,
+    "log": -71.0990698,
+    "lat": 42.3626538,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2115.8823529411766,
+    "log": -71.097686,
+    "lat": 42.3618305,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2117.6470588235293,
+    "log": -71.0975466,
+    "lat": 42.3617475,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2119.4117647058824,
+    "log": -71.0969681,
+    "lat": 42.3614033,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2121.176470588235,
+    "log": -71.0960005,
+    "lat": 42.3608275,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2122.9411764705883,
+    "log": -71.0948847,
+    "lat": 42.3601506,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2124.705882352941,
+    "log": -71.0930839,
+    "lat": 42.3581911,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2126.470588235294,
+    "log": -71.0950896,
+    "lat": 42.3572332,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "End time": 2128.235294117647,
+    "log": -71.0968722,
+    "lat": 42.35663,
+    "Activity": "Online course study, continuous learning in the evening",
+    "Transportation": "Wifi"
+  },
+  {
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Place": "house",
+    "Start time": 2100,
+    "End time": 2130,
+    "Transportation": "Walk",
+    "log": -71.09831,
+    "lat": 42.35692
+  },
+  {
+    "End time": 2133.684210526316,
+    "log": -71.0968722,
+    "lat": 42.35663,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2137.3684210526317,
+    "log": -71.0991557,
+    "lat": 42.3559603,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2141.0526315789475,
+    "log": -71.1033176,
+    "lat": 42.3559928,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2144.7368421052633,
+    "log": -71.0948847,
+    "lat": 42.3601506,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2148.4210526315787,
+    "log": -71.0960005,
+    "lat": 42.3608275,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2152.1052631578946,
+    "log": -71.1001284,
+    "lat": 42.3589834,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2155.7894736842104,
+    "log": -71.1016971,
+    "lat": 42.3598989,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2159.4736842105262,
+    "log": -71.102478,
+    "lat": 42.36035,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2163.157894736842,
+    "log": -71.1033722,
+    "lat": 42.3608849,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2166.842105263158,
+    "log": -71.1027904,
+    "lat": 42.361416,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2170.5263157894738,
+    "log": -71.1034355,
+    "lat": 42.3617854,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2174.2105263157896,
+    "log": -71.10294,
+    "lat": 42.362326,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2177.8947368421054,
+    "log": -71.1039379,
+    "lat": 42.3629317,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2181.5789473684213,
+    "log": -71.1042966,
+    "lat": 42.3631456,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2185.2631578947367,
+    "log": -71.104792,
+    "lat": 42.362695,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2188.9473684210525,
+    "log": -71.1049909,
+    "lat": 42.3625119,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2192.6315789473683,
+    "log": -71.105308,
+    "lat": 42.362227,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2196.315789473684,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Night time skincare routine, maintaining a self-care regimen",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Place": "house",
+    "Start time": 2130,
+    "End time": 2200,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  },
+  {
+    "End time": 2205.8823529411766,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2211.764705882353,
+    "log": -71.1040784,
+    "lat": 42.3611147,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2217.6470588235293,
+    "log": -71.1039695,
+    "lat": 42.3612422,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2223.529411764706,
+    "log": -71.1033722,
+    "lat": 42.3608849,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2229.4117647058824,
+    "log": -71.102478,
+    "lat": 42.36035,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2235.294117647059,
+    "log": -71.1007587,
+    "lat": 42.3618769,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2241.176470588235,
+    "log": -71.1002034,
+    "lat": 42.3623916,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2247.0588235294117,
+    "log": -71.0996101,
+    "lat": 42.3629644,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2252.9411764705883,
+    "log": -71.1011859,
+    "lat": 42.3639108,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2258.823529411765,
+    "log": -71.1003641,
+    "lat": 42.3646919,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2264.705882352941,
+    "log": -71.1012764,
+    "lat": 42.3652327,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2270.5882352941176,
+    "log": -71.102318,
+    "lat": 42.365852,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2276.470588235294,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2282.3529411764707,
+    "log": -71.1024004,
+    "lat": 42.3673677,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2288.235294117647,
+    "log": -71.1017379,
+    "lat": 42.3682951,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2294.1176470588234,
+    "log": -71.101223,
+    "lat": 42.368115,
+    "Activity": "Late night snacking, a small healthy snack to round off the day",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Place": "house",
+    "Start time": 2200,
+    "End time": 2300,
+    "Transportation": "Walk",
+    "log": -71.10092,
+    "lat": 42.36826
+  },
+  {
+    "End time": 2195.8823529411766,
+    "log": -71.101223,
+    "lat": 42.368115,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 2091.764705882353,
+    "log": -71.100538,
+    "lat": 42.36913,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1987.6470588235293,
+    "log": -71.1010043,
+    "lat": 42.3693165,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1883.5294117647059,
+    "log": -71.1017379,
+    "lat": 42.3682951,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1779.4117647058824,
+    "log": -71.1024004,
+    "lat": 42.3673677,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1675.2941176470588,
+    "log": -71.103146,
+    "lat": 42.366344,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1571.1764705882351,
+    "log": -71.1040004,
+    "lat": 42.3655877,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1467.0588235294117,
+    "log": -71.1031705,
+    "lat": 42.3650913,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1362.9411764705883,
+    "log": -71.1025701,
+    "lat": 42.3647366,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1258.8235294117646,
+    "log": -71.10318,
+    "lat": 42.364165,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1154.705882352941,
+    "log": -71.103738,
+    "lat": 42.363651,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 1050.5882352941176,
+    "log": -71.1042966,
+    "lat": 42.3631456,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 946.4705882352941,
+    "log": -71.104792,
+    "lat": 42.362695,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 842.3529411764705,
+    "log": -71.1049909,
+    "lat": 42.3625119,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 738.2352941176468,
+    "log": -71.105308,
+    "lat": 42.362227,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "End time": 634.1176470588234,
+    "log": -71.105553,
+    "lat": 42.362,
+    "Activity": "Bedtime routine, winding down with prayers and a goodnight call to the spouse",
+    "Transportation": "Walk"
+  },
+  {
+    "Activity": "Sleep, a restful end to a productive day",
+    "Place": "house",
+    "Start time": 2300,
+    "End time": 530,
+    "Transportation": "Walk",
+    "log": -71.10554,
+    "lat": 42.3618
+  }
+]
